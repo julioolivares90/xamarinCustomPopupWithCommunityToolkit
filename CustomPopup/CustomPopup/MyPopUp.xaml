@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xct:Popup xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomPopup.MyPopUp"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+           Size="300,300">
+    <StackLayout>
+        <Label  Text="Hola desde popup!!!"/>
+        <Button Text="Dismis" Clicked="Button_Clicked"  ></Button>
+    </StackLayout>
+</xct:Popup>

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\bin\Debug\netstandard2.0\CustomPopup.deps.json
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\bin\Debug\netstandard2.0\CustomPopup.dll
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\bin\Debug\netstandard2.0\CustomPopup.pdb
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\CustomPopup.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\CustomPopup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\MyPopUp.xaml.g.cs
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\CustomPopup.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\CustomPopup.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\CustomPopup.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\CustomPopup.dll
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\refint\CustomPopup.dll
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\CustomPopup.pdb
+C:\Users\User\source\repos\CustomPopup\CustomPopup\CustomPopup\obj\Debug\netstandard2.0\ref\CustomPopup.dll
